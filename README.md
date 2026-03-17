@@ -11,7 +11,7 @@ Yanning Dai*, Yuhui Wang*, Dylan R. Ashley, Jürgen Schmidhuber
 
 [Paper](https://openreview.net/pdf?id=sJ0vOOkclw)
 
-[arXiv](https://openreview.net/pdf?id=sJ0vOOkclw)
+<!-- [arXiv](https://openreview.net/pdf?id=sJ0vOOkclw) -->
 
 [Code](https://github.com/YanningDai/StackelbergPPO)
 
